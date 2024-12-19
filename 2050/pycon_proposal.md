@@ -23,7 +23,7 @@ then we’ll give time for everyone to explore parameters and share their result
 
 ## OUTLINE
 
-### Introduction (~15 minutes) 
+### Introduction (30 minutes) 
 - Survey researchers rely on open-ended, qualitative questions to add depth and
 nuance. Traditional methods for text analysis are labor-intensive, subjective,
 and challenging to audit. 
@@ -34,12 +34,12 @@ reliability, and ways that this can be scaled with Python tools like
 [potato](https://github.com/davidjurgens/potato) and websites like
 [Prolific](https://www.prolific.com/).
 
-### Text Pre-processing (~30 minutes) 
+### Text Pre-processing (30 minutes) 
 - [Example Jupyter Notebook for this segment](https://github.com/jackaaburk/ITE140/blob/main/Notes/NLP.ipynb) 
 - Ingestion into Pandas, Lemmatization, stop word removal, spell checking. 
 - We’ll share brief theory, then work through an example using Pandas and spaCy.
 
-### N-Grams and Word Clouds (15 minutes) 
+### N-Grams, Word Clouds, and Co-occurrence (30 minutes) 
 - [Example Jupyter Notebook for this segment](https://github.com/MrJonesAPS/ITE140/blob/main/word_cloud_sample.ipynb)
 - We can get far with some simple analysis based on word frequency. Everyone
 likes a word cloud!
