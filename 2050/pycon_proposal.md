@@ -4,6 +4,9 @@ Due December 19
 
 # From Words To Insights: Hands-On NLP for Open-Ended Survey Data Analysis
 
+## Category
+Data Analysis & Data Visualization
+
 ## DESCRIPTION
 An overview of strategies to make sense of open-ended survey data. Attendees
 will leave with an understanding of natural language processing (NLP) theory 
@@ -11,10 +14,7 @@ and experience using popular Python packages to clean text data, identify themes
 cluster similar responses, and make visualizations. 
 
 ## AUDIENCE
-Some experience: We'll expect that attendees are comfortable with basic Python
-but have no knowledge of data science or natural language processing. We'll give 
-thorough introductions to all the packages we use - and folks who are already 
-experienced with them will have an opportunity to play beyond our presentation.
+Some experience
 
 ## FORMAT
 Very Interactive! We'll divide the tutorial into several small sections. For
@@ -78,7 +78,7 @@ data.
 necessarily have time for all of it. We'll provide starter code for each of
 these topics, and if there's time, we'll take audience input on which we should 
 work through together:
-    - Naive-Bayes Categorization: If we've manually categorized some comments,
+    - Naive Bayes Classification: If we've manually categorized some comments,
     how can we automatically categorize the rest?
     - LLM's for Survey Analysis: How can we use LLMs to help categorize
     comments, synthesize future responses, or even personalize surveys?
@@ -90,15 +90,19 @@ this school year as part of a survey research project organized by Arlington
 County. As part of this project, Chris attended a conference at University of
 Maryland about the role of AI in survey research.
 
-Before teaching, Chris worked at Mastercard, first as a Data Engineer, then as a
-Director of Product Management for data privacy platforms. Chris has a MS in
-Systems Engineering from Virginia Tech and is working on an MS in Computer
-Science from CU Boulder.
+Chris has published some work samples on [his teaching portfolio](https://chrismjon.es/blog/).
 
-Blu presented a poster at PyCon 2024, and plans to present a poster again this
+Before teaching, Chris worked at Mastercard, first as a Data Engineer, then as a
+Director of Product Management for data privacy platforms.
+
+Blu presented [a poster at PyCon 2024](https://us.pycon.org/2024/speaker/profile/130/index.html), and plans to present a poster again this
 year as part of a club at our school called 'ACC Django Girls'
 
 ## Notes
+- Audience experience: : We'll expect that attendees are comfortable with basic Python
+but have no knowledge of data science or natural language processing. We'll give 
+thorough introductions to all the packages we use - and folks who are already 
+experienced with them will have an opportunity to play beyond our presentation.
 - The “sample Jupyter Notebooks” provided above were each produced by students in
 Chris's/Blu's class this school year, and each student gave their permission for
 their notebook to be shared in this proposal. For the actual tutorial, we would revise
@@ -118,3 +122,15 @@ presentation if that would be helpful.
 
 Chris and Blu are both only available on Thursday, May 15. We would not be able
 to attend a tutorial on Wednesday, May 14.
+
+
+## Chris's Biography
+Chris Jones is a teacher at Arlington Tech, a public high school in Arlington, Virginia. 
+
+Chris has published some work samples on [his teaching portfolio](https://chrismjon.es/blog/).
+
+Before teaching, Chris worked at Mastercard, first as a Data Engineer, then as a
+Director of Product Management for data privacy platforms.
+
+Outside of tech and teaching, Chris enjoys mountain biking, and spending time
+with his wife, toddler, and cat.
