@@ -110,6 +110,9 @@ we'll use a variety of relevant data that we've identified and cleaned ahead of 
 - We have no affiliation with pandas, spacy, potato, or any of the other
 projects highlighted in this talk. All of the sample code that we share will be
 our own.
+- We will be traveling to Pycon with a large group from our school. We can bring
+a few additional "TA's" to help out with the interactive parts of our
+presentation if that would be helpful.
 
 ## Requests/Accessibility
 
